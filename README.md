@@ -1,6 +1,6 @@
 # YQAlertView
 YQAlertView
-代码对应的博客：http://www.jianshu.com/u/38f5c5bd3849
+代码对应的博客：http://www.jianshu.com/p/d60dc6bbe537
 
 #使用方法
 1.clone后，将YQAlertView文件夹拉入项目中
